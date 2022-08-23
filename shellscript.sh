@@ -1,6 +1,6 @@
 #!/bin/sh
 
-cd ~/Documents/Git/mirinae-website-search
+cd ~/Documents/Git/mirinae-goldendict-plugin
 
 cat_beginning='python mirinae-website-search.py --url '
 cat_end='; exit'
