@@ -3,6 +3,8 @@
 This is a small script for applying mirinae.io Korean grammar analysis designed to be used for GoldenDict popup functionality.
 Support is given for Linux, tested on NixOS.
 
+![](./img/plugin.gif)
+
 ### How it works
 
 1. Selenium using Mozilla's `geckodriver` makes a request on mirinae.io
